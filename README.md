@@ -17,7 +17,7 @@ Example:
 
 ```
 char	*line;
-int		file_descriptor;
+int	file_descriptor;
 
 folder = open(path, O_RDONLY);
 
